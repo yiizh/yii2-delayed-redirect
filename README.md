@@ -1,2 +1,3 @@
-# yii2-delayed-redirect
+Delayed Redirect
+================
 Yii2扩展之延迟跳转页面。

@@ -1,0 +1,25 @@
+{
+    "name": "yiizh/yii2-delayed-redirect",
+    "description": "Yii2扩展之延迟跳转页面。",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "extension",
+        "delayed redirect"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Di Zhang",
+            "email": "zhangdi_me@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiizh\\extensions\\DelayedRedirect\\": "src"
+        }
+    }
+}
